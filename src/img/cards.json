@@ -1,0 +1,33 @@
+[
+    {
+      "imgSrc": "./img/model1.png",
+      "title": "Dungeon POV 1",
+      "description": "Perspective view on the dungeon. This is a hallway seen at evening with lamp light lighting the way."
+    },
+    {
+      "imgSrc": "./img/model2.png",
+      "title": "Dungeon POV 2",
+      "description": "A perspective view on the storage area of the dungeon. A dim light making it seen."
+    },
+    {
+      "imgSrc": "./img/model3.png",
+      "title": "Dungeon Top-Down",
+      "description": "A top view of the dungeon. This is an evening scene from a dimly lighted interior of the dungeon's rooms."
+    },
+    {
+      "imgSrc": "./img/model4.png",
+      "title": "Dungeon POV 3",
+      "description": "Corner view of the dungeon. It is dimly lit by a lamp hanging on the wall."
+    },
+    {
+      "imgSrc": "./img/model5.png",
+      "title": "Dungeon POV 4",
+      "description": "Another view of the dungeon from a corner. The dungeon is quiet and dimly lit by a firelight."
+    },
+    {
+      "imgSrc": "./img/dino1.png",
+      "title": "Dinosaur",
+      "description": "A dinosaur roaming the grassy hill. An effort to create a 3D animal model asset."
+    }
+  ]
+  
