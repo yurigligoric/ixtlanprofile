@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ixtlanpro/static/css/main.c5d18b0c.css",
-    "main.js": "/ixtlanpro/static/js/main.91dab373.js",
-    "static/js/787.1aaef056.chunk.js": "/ixtlanpro/static/js/787.1aaef056.chunk.js",
-    "static/media/dino1.png": "/ixtlanpro/static/media/dino1.1b6c4180664aca89301b.png",
-    "static/media/model4.png": "/ixtlanpro/static/media/model4.a02794fcc5de678fc287.png",
-    "static/media/model5.png": "/ixtlanpro/static/media/model5.6426eb150cf5344bca1b.png",
-    "static/media/model1.png": "/ixtlanpro/static/media/model1.9bcf2f8aeba4d82abcc5.png",
-    "static/media/model2.png": "/ixtlanpro/static/media/model2.269bfc44acbc0db476a8.png",
-    "static/media/logo1.jpg": "/ixtlanpro/static/media/logo1.5f42ab53c5df714f5f3b.jpg",
-    "static/media/model3.png": "/ixtlanpro/static/media/model3.2dace4f24e2a3273a1c9.png",
-    "index.html": "/ixtlanpro/index.html",
-    "main.c5d18b0c.css.map": "/ixtlanpro/static/css/main.c5d18b0c.css.map",
-    "main.91dab373.js.map": "/ixtlanpro/static/js/main.91dab373.js.map",
-    "787.1aaef056.chunk.js.map": "/ixtlanpro/static/js/787.1aaef056.chunk.js.map"
+    "main.css": "/ixtlanprofile/static/css/main.c5d18b0c.css",
+    "main.js": "/ixtlanprofile/static/js/main.09b511a0.js",
+    "static/js/787.1aaef056.chunk.js": "/ixtlanprofile/static/js/787.1aaef056.chunk.js",
+    "static/media/dino1.png": "/ixtlanprofile/static/media/dino1.1b6c4180664aca89301b.png",
+    "static/media/model4.png": "/ixtlanprofile/static/media/model4.a02794fcc5de678fc287.png",
+    "static/media/model5.png": "/ixtlanprofile/static/media/model5.6426eb150cf5344bca1b.png",
+    "static/media/model1.png": "/ixtlanprofile/static/media/model1.9bcf2f8aeba4d82abcc5.png",
+    "static/media/model2.png": "/ixtlanprofile/static/media/model2.269bfc44acbc0db476a8.png",
+    "static/media/logo1.jpg": "/ixtlanprofile/static/media/logo1.5f42ab53c5df714f5f3b.jpg",
+    "static/media/model3.png": "/ixtlanprofile/static/media/model3.2dace4f24e2a3273a1c9.png",
+    "index.html": "/ixtlanprofile/index.html",
+    "main.c5d18b0c.css.map": "/ixtlanprofile/static/css/main.c5d18b0c.css.map",
+    "main.09b511a0.js.map": "/ixtlanprofile/static/js/main.09b511a0.js.map",
+    "787.1aaef056.chunk.js.map": "/ixtlanprofile/static/js/787.1aaef056.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d18b0c.css",
-    "static/js/main.91dab373.js"
+    "static/js/main.09b511a0.js"
   ]
 }
